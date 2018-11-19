@@ -66,7 +66,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background
+  background:black;
 }
 
 [tabindex="-1"]:focus {
@@ -4883,7 +4883,7 @@ input[type="button"].btn-block {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
   border-radius: 0.3rem;
-  background-color:lightgray;
+  background-color:darkred;
 }
 
 @media (min-width: 576px) {
@@ -9049,4 +9049,20 @@ ack, this sucks
 */
 .p {
   font-size:5;
+}
+
+.blacktxt {
+  color:black;
+}
+
+.redbdg {
+  background-color: darkred;
+}
+
+.redtxt {
+  color:red;
+}
+
+.clink {
+  color:#00FF00;
 }
