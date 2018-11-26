@@ -342,3 +342,7 @@ button {
 .redtxt{
     color:red;
 }
+.link {
+    text-align: center;
+    z-index:1;
+}
