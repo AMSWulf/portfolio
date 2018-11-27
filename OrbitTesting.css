@@ -283,7 +283,7 @@ button {
   position: relative;
   width: 200px;
   padding: 1.25em .5em;
-  background: black;
+  background: transparent;
   border: 1px solid black;
   color: #fff;
   font-size: 18px;
