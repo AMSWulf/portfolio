@@ -2328,6 +2328,8 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
   line-height: 1.5;
   border-radius: 0.25rem;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  color:red;
+  width: 18%;
 }
 
 @media screen and (prefers-reduced-motion: reduce) {
@@ -9065,4 +9067,8 @@ ack, this sucks
 
 .clink {
   color:#00FF00;
+}
+
+.whitetxt {
+  color:white;
 }
