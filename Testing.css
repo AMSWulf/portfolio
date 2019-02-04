@@ -15,7 +15,7 @@ span {
 body {
   background:black;
 }
-span:hover {
+span {
     animation: glitch 2s steps(100) infinite;
 } 
 
