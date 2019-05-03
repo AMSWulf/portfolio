@@ -2535,14 +2535,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-danger {
-  color: #fff;
-  background-color: #dc3545;
-  border-color: #dc3545;
+  color: red;
+  background-color: black;
+  border-color: black;
 }
 
 .btn-danger:hover {
-  color: #fff;
-  background-color: #c82333;
+  color: firebrick;
+  background-color: rgb(20,20,20);
   border-color: #bd2130;
 }
 
@@ -9061,6 +9061,9 @@ ack, this sucks
   background-color: darkred;
 }
 
+.blackbdg {
+  background-color: black;
+}
 .redtxt {
   color:red;
 }
@@ -9071,4 +9074,10 @@ ack, this sucks
 
 .whitetxt {
   color:white;
+}
+.cjumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  border-radius: 0.3rem;
+  background-color:darkred;
 }

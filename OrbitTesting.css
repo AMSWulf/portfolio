@@ -14,7 +14,7 @@ h1   { font-size: 2.4rem; } /* =24px */
 .landing-page-container {
     width: 100%;
     min-height: 100%;
-    height: 90rem;
+    height: 60rem;
     background-image: url('https://s29.postimg.org/vho8xb2pj/landing_bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -22,6 +22,7 @@ h1   { font-size: 2.4rem; } /* =24px */
     overflow: hidden;
     font-family: 'Montserrat', sans-serif;
     color: $tiber;
+    margin-bottom: 40rem
 }
 
 .content__wrapper {
@@ -84,7 +85,7 @@ h1   { font-size: 2.4rem; } /* =24px */
     border-radius: 50%;
     margin: 0 auto;
     position: relative;
-    top: 10.5rem;
+    top: 2rem
 }
     .greeting {
         position: absolute;
